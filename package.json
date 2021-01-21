@@ -1,0 +1,21 @@
+{
+  "name": "twitter-js",
+  "version": "1.0.0",
+  "description": "Una aplicación cool de Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.11",
+    "nunjucks": "^3.2.0",
+    "socket.io": "^2.2.0"
+  }
+}
